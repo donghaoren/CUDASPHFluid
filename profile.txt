@@ -1,0 +1,10 @@
+width 720
+height 480
+view-theta 0.2
+view-scale 0.2
+view-altitude 0.4
+volume 1
+particles 20 20 20
+frames 100
+dt 0.001
+bg assets/bg_grandcanyon_small.bmp

@@ -1,0 +1,4 @@
+*.o
+interface
+mpi_project
+project
